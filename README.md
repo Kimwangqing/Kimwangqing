@@ -6,7 +6,7 @@
 
 ### A technical writer who is interesting on building blog and messing with something about data.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kimwangqing&theme=cobalt&show_icons=true" width="75%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kimwangqing&theme=cobalt&show_icons=true" width="73%" />
 
 
 

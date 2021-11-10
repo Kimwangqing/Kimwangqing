@@ -7,8 +7,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimwangqing" />
 
 💬
-
 Get in touch
-
-<img src="https://img.shields.io/badge/dynamic/json?url=< https://github.com/Kimwangqing>?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://github.com/Kimwangqing?style=flat-square&logo=github" />
 

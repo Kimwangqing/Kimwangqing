@@ -9,4 +9,4 @@
 💬
 Get in touch
 <img src="(https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Kimwangqin)" />
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Kimwangqin)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square?logo=github)](https://github.com/Kimwangqin)

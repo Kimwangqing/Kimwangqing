@@ -8,5 +8,5 @@
 
 💬
 Get in touch
-<img src="https://github.com/Kimwangqing?style=flat-square&logo=github" />
+<img src="(https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Kimwangqin)" />
 
